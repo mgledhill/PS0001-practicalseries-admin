@@ -23,7 +23,8 @@ Currently there are the following publications and repositories:
 2.	PS1000-practicalseries-main-page
 3.	PS1001-website-development-template
 4.	PS1002-brackets-git-and-github-vcs
-5.  PS9901-fairfax-wtw-fds
+5.  PS1003-landrover-user-manual
+6.  PS9901-fairfax-wtw-fds
 
 ## The website structure
 
