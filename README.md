@@ -67,7 +67,7 @@ The following is a register of the Practical Series of Publication and associate
 | ```PS1000```      | PS Main (landing) page                      | Pub                          | P11-published
 | ```PS1001```      | PS Website Template publication             | Pub                          | P10-part published
 | ```PS1002```      | PS Brackets-Git and GitHub publication      | Released                     | R01-first release
-| ```PS1003```      | PS Land Rover Defender User Manual          | Dev                          | D00-development
+| ```PS1003```      | PS Land Rover Defender User Manual          | Rel                          | R01-first release
 | ```PS2001```      | PS Automation Library                       | Pub                          | Planned
 | ```PS4001```      | PS PCS7 Automation                          | Pub                          | Planned
 | ```PS9901```      | Fairfax WTW Functional Design Specification | Dev                          | D00-development
